@@ -22,7 +22,8 @@ By using a pivot table and pivot chart, I realized that there was more successfu
 
 ### Analysis of Outcomes Based on Goals
 
-Campaigns that had goals less than $1,000, had the highest sucess rate. The campaigns with goals greater than $ 50,000 had the highest failure and cancelation rates.
+The highest failure rate is for the campaigns that had a goal greater equal than  $45,000 and less than $5,000. In this range, the success rate is 0%.
+On the other hand, it is understood from the charts that campaigns with goals less than $1,000, were the most successful with success rate of roghly 80%.
 
 
 ### Challenges and Difficulties Encountered
